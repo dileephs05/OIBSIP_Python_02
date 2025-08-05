@@ -1,0 +1,1 @@
+Only matplotlib needs to be installed via pip, as both tkinter and sqlite3 are included in Python’s standard library.
